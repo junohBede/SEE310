@@ -42,4 +42,3 @@ conda env create -f workflow/envs/osemosys-global.yaml
 
 ## Set-up your timeslice and country
 Open `\\wsl.localhost\Ubuntu\home\LINUX_USERNAME\osemosys_global\config\config.yaml` file and edit the set-ups.  
-NOTE: Do not use `user_defined_capacity`. Currently, there is an issue with Pandas DataFrame. 
